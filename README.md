@@ -27,19 +27,19 @@ The project is organized in the following directory structure:
 Clone the project:
 
 ```sh
-git clone git@github.com:FelipeRamosOliveira/Twitter-Sentiment-Analysis.git
+git clone git@github.com:Silly-Machine/Twitter-Hate-Speech.git
 ```
 
 Is highly recommended to create the following [`conda`](https://docs.conda.io/en/latest/miniconda.html) virtual environment before installing the dependencies.
 
 ```sh
-conda create -n sentiment_analysis python=3.8
+conda create -n twitter_analysis python=3.8
 ```
 
 Activate the virtual environment:
 
 ```sh
-conda activate sentiment_analysis
+conda activate twitter_analysis
 ```
 
 In the virtual environment, install [`poetry`](https://python-poetry.org/) as the package manager :
