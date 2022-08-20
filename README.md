@@ -19,7 +19,7 @@ The project is organized in the following directory structure:
 ├── notebooks       --> proof of concept notebooks
 ├── pyproject.toml  --> project configuration
 └── src             --> project main code
-    └── modules     --> util module
+    └── modules     --> util modules
 ```
 
 ## Setup
