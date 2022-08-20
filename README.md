@@ -15,11 +15,11 @@ The project is organized in the following directory structure:
 
 ```sh
 .
-├── notebooks       --> contains the notebooks used to train the model
-│   └── data        --> contains the data used to train the model
-├── pyproject.toml  --> contains the project configuration
-└── src             --> contains the maincode
-    └── main.py
+├── data            --> persisted data
+├── notebooks       --> proof of concept notebooks
+├── pyproject.toml  --> project configuration
+└── src             --> project main code
+    └── modules     --> util module
 ```
 
 ## Setup
